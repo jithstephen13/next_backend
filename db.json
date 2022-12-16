@@ -2810,7 +2810,7 @@
       "code": "LNZ58W"
     }
   ],
-  "electronics":[
+  "Electronics":[
     {
       "id": 1,
       "image1": "https://img.shop.com/Image/280000/281900/281909/products/1869578781__800x800__.jpg",
@@ -3364,7 +3364,7 @@
 
 
   ],
-  "cosmetics":[
+  "Cosmetics":[
     {
       "id": 1,
       "image1": "https://img.shop.com/Image/240000/243300/243380/products/1942133519.jpg?plain&size=1600x1600",
@@ -3917,7 +3917,7 @@
     }
   ],
   "user":[
-    
+
   ]
 
 }
