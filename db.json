@@ -3917,6 +3917,39 @@
     }
   ],
   "user":[
+    
+{
+  "firstName": "Pardeep",
+  "lastName": "Singh",
+  "email": "deepbedi1049@gmail.com",
+  "mobile": "8558021138",
+  "password": "123456",
+  "id": 1
+  },
+  {
+  "firstName": "Tarun",
+  "lastName": "a",
+  "email": "ds@gmail.com",
+  "mobile": "123456789",
+  "password": "123456",
+  "id": 2
+  },
+  {
+  "firstName": "jith",
+  "lastName": "stephen",
+  "email": "k@gmail.com",
+  "mobile": "1234567898",
+  "password": "1234",
+  "id": 3
+  },
+  {
+  "firstName": "Ganesh",
+  "lastName": "N",
+  "email": "admin@admin.com",
+  "mobile": "1234567",
+  "password": "123456",
+  "id": 4
+  }
 
   ]
 
